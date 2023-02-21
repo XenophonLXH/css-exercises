@@ -1,0 +1,15 @@
+.dark-side,
+.banana-side {
+  font-size: 28px;
+  font-family: 'Helvetica', 'Times New Roman', sans-serif;
+}
+
+.dark-side {
+  background-color: black;
+  color: white;
+}
+
+.banana-side {
+  background-color: yellow;
+  color: black;
+}
