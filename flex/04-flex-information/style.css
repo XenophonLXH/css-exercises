@@ -45,3 +45,23 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+
+/* correct solution */
+body {
+    text-align: center;
+}
+
+.title {
+    margin-bottom: 32px;
+}
+
+.parent-container {
+    display: flex;
+    justify-content: center;
+    gap: 52px;
+}
+
+.child-container {
+    max-width: 200px;
+}
